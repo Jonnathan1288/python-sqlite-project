@@ -37,6 +37,8 @@ def consultar_usuarios():
 # Insertar usuarios
 insertar_usuario('Alice', 30)
 insertar_usuario('Bob', 25)
+insertar_usuario('Javier', 21)
+insertar_usuario('Js', 20)
 
 # Consultar y mostrar usuarios
 usuarios = consultar_usuarios()
